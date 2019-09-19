@@ -1,0 +1,7 @@
+# File starts with multiple lines of comments...
+#
+# rsid	chromosome	position	genotype
+rs12564807	1	326472	AA
+rs3131972	1	583459	GG
+rs1488288	1	876634	CC
+rs12124819	1	947369	GG
